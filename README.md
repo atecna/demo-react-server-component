@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# React Server Components Demo with Next.js
+
+This project is an implementation of React Server Components using Next.js, recreating the demo presented by Ryan Florence in his talk. You can watch the original demo [here](https://youtu.be/1g5ruM-16_Y?t=7603).
 
 ## Getting Started
 
@@ -22,10 +24,11 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more about Next.js and React Server Components, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [React Server Components](https://reactjs.org/docs/react-api.html#reactservercomponent) - learn about React Server Components.
+- [Ryan Florence's Talk](https://youtu.be/1g5ruM-16_Y?t=7603) - watch the original demo.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
