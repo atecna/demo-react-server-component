@@ -1,0 +1,512 @@
+{
+  "userSort": {
+    "column": "name",
+    "direction": "descending"
+  },
+  "stocks": [
+    {
+      "symbol": "SAUY",
+      "key": "SAU",
+      "name": "Yamana Gold Inc.",
+      "marketCap": "$2.328B",
+      "sector": "Basic Industries",
+      "industry": "Precious Metals"
+    },
+    {
+      "symbol": "SWF",
+      "key": "SWF",
+      "name": "Woori Bank",
+      "marketCap": "$10.29B",
+      "sector": "Finance",
+      "industry": "Commercial Banks"
+    },
+    {
+      "symbol": "SWING",
+      "key": "SWI",
+      "name": "Wingstop Inc.",
+      "marketCap": "$875.69M",
+      "sector": "Consumer Services",
+      "industry": "Restaurants"
+    },
+    {
+      "symbol": "SZF",
+      "key": "SZF",
+      "name": "Virtus Total Return Fund Inc.",
+      "marketCap": "$277.82M",
+      "sector": "n/a",
+      "industry": "n/a"
+    },
+    {
+      "symbol": "SVRTS",
+      "key": "SVR",
+      "name": "Virtus Investment Partners, Inc.",
+      "marketCap": "$785.49M",
+      "sector": "Finance",
+      "industry": "Investment Managers"
+    },
+    {
+      "symbol": "SVNQI",
+      "key": "SVN",
+      "name": "Vanguard Global ex-U.S. Real Estate ETF",
+      "marketCap": "$4.398B",
+      "sector": "n/a",
+      "industry": "n/a"
+    },
+    {
+      "symbol": "SUSDP",
+      "key": "SUS",
+      "name": "USD Partners LP",
+      "marketCap": "$300.48M",
+      "sector": "Transportation",
+      "industry": "Railroads"
+    },
+    {
+      "symbol": "SULBI",
+      "key": "SUL",
+      "name": "Ultralife Corporation",
+      "marketCap": "$102.3M",
+      "sector": "Miscellaneous",
+      "industry": "Industrial Machinery/Components"
+    },
+    {
+      "symbol": "STNP'C",
+      "key": "STN",
+      "name": "Tsakos Energy Navigation Ltd",
+      "marketCap": "n/a",
+      "sector": "n/a",
+      "industry": "n/a"
+    },
+    {
+      "symbol": "STBPH",
+      "key": "STB",
+      "name": "Theravance Biopharma, Inc.",
+      "marketCap": "$1.978B",
+      "sector": "Health Care",
+      "industry": "Major Pharmaceuticals"
+    },
+    {
+      "symbol": "AAPL",
+      "key": "AAP",
+      "name": "Apple Inc.",
+      "marketCap": "$2.426T",
+      "sector": "Technology",
+      "industry": "Consumer Electronics"
+    },
+    {
+      "symbol": "MSFT",
+      "key": "MSF",
+      "name": "Microsoft Corporation",
+      "marketCap": "$2.343T",
+      "sector": "Technology",
+      "industry": "Software - Infrastructure"
+    },
+    {
+      "symbol": "GOOGL",
+      "key": "GOO",
+      "name": "Alphabet Inc.",
+      "marketCap": "$1.592T",
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information"
+    },
+    {
+      "symbol": "AMZN",
+      "key": "AMZ",
+      "name": "Amazon.com, Inc.",
+      "marketCap": "$1.389T",
+      "sector": "Consumer Cyclical",
+      "industry": "Internet Retail"
+    },
+    {
+      "symbol": "FB",
+      "key": "FB",
+      "name": "Meta Platforms, Inc.",
+      "marketCap": "$926.25B",
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information"
+    },
+    {
+      "symbol": "TSLA",
+      "key": "TSL",
+      "name": "Tesla, Inc.",
+      "marketCap": "$890.25B",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers"
+    },
+    {
+      "symbol": "NVDA",
+      "key": "NVD",
+      "name": "NVIDIA Corporation",
+      "marketCap": "$647.54B",
+      "sector": "Technology",
+      "industry": "Semiconductors"
+    },
+    {
+      "symbol": "BRK-A",
+      "key": "BRK",
+      "name": "Berkshire Hathaway Inc.",
+      "marketCap": "$634.12B",
+      "sector": "Financial Services",
+      "industry": "Insurance - Diversified"
+    },
+    {
+      "symbol": "V",
+      "key": "V",
+      "name": "Visa Inc.",
+      "marketCap": "$510.89B",
+      "sector": "Financial Services",
+      "industry": "Credit Services"
+    },
+    {
+      "symbol": "JNJ",
+      "key": "JNJ",
+      "name": "Johnson & Johnson",
+      "marketCap": "$435.89B",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General"
+    },
+    {
+      "symbol": "WMT",
+      "key": "WMT",
+      "name": "Walmart Inc.",
+      "marketCap": "$420.21B",
+      "sector": "Consumer Defensive",
+      "industry": "Discount Stores"
+    },
+    {
+      "symbol": "JPM",
+      "key": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "marketCap": "$409.22B",
+      "sector": "Financial Services",
+      "industry": "Banks - Diversified"
+    },
+    {
+      "symbol": "MA",
+      "key": "MA",
+      "name": "Mastercard Incorporated",
+      "marketCap": "$378.23B",
+      "sector": "Financial Services",
+      "industry": "Credit Services"
+    },
+    {
+      "symbol": "PG",
+      "key": "PG",
+      "name": "Procter & Gamble Co.",
+      "marketCap": "$345.45B",
+      "sector": "Consumer Defensive",
+      "industry": "Household & Personal Products"
+    },
+    {
+      "symbol": "DIS",
+      "key": "DIS",
+      "name": "The Walt Disney Company",
+      "marketCap": "$312.75B",
+      "sector": "Communication Services",
+      "industry": "Entertainment"
+    },
+    {
+      "symbol": "PYPL",
+      "key": "PYP",
+      "name": "PayPal Holdings, Inc.",
+      "marketCap": "$291.65B",
+      "sector": "Financial Services",
+      "industry": "Credit Services"
+    },
+    {
+      "symbol": "NFLX",
+      "key": "NFL",
+      "name": "Netflix, Inc.",
+      "marketCap": "$286.55B",
+      "sector": "Communication Services",
+      "industry": "Entertainment"
+    },
+    {
+      "symbol": "CSCO",
+      "key": "CSC",
+      "name": "Cisco Systems, Inc.",
+      "marketCap": "$245.34B",
+      "sector": "Technology",
+      "industry": "Communication Equipment"
+    },
+    {
+      "symbol": "ADBE",
+      "key": "ADB",
+      "name": "Adobe Inc.",
+      "marketCap": "$243.78B",
+      "sector": "Technology",
+      "industry": "Software - Application"
+    },
+    {
+      "symbol": "PEP",
+      "key": "PEP",
+      "name": "PepsiCo, Inc.",
+      "marketCap": "$239.88B",
+      "sector": "Consumer Defensive",
+      "industry": "Beverages - Non-Alcoholic"
+    },
+    {
+      "symbol": "KO",
+      "key": "KO",
+      "name": "The Coca-Cola Company",
+      "marketCap": "$238.45B",
+      "sector": "Consumer Defensive",
+      "industry": "Beverages - Non-Alcoholic"
+    },
+    {
+      "symbol": "INTC",
+      "key": "INT",
+      "name": "Intel Corporation",
+      "marketCap": "$223.56B",
+      "sector": "Technology",
+      "industry": "Semiconductors"
+    },
+    {
+      "symbol": "CMCSA",
+      "key": "CMC",
+      "name": "Comcast Corporation",
+      "marketCap": "$218.67B",
+      "sector": "Communication Services",
+      "industry": "Telecom Services"
+    },
+    {
+      "symbol": "VZ",
+      "key": "VZ",
+      "name": "Verizon Communications Inc.",
+      "marketCap": "$215.89B",
+      "sector": "Communication Services",
+      "industry": "Telecom Services"
+    },
+    {
+      "symbol": "PFE",
+      "key": "PFE",
+      "name": "Pfizer Inc.",
+      "marketCap": "$213.56B",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General"
+    },
+    {
+      "symbol": "MRK",
+      "key": "MRK",
+      "name": "Merck & Co., Inc.",
+      "marketCap": "$212.45B",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General"
+    },
+    {
+      "symbol": "T",
+      "key": "T",
+      "name": "AT&T Inc.",
+      "marketCap": "$210.34B",
+      "sector": "Communication Services",
+      "industry": "Telecom Services"
+    },
+    {
+      "symbol": "ABT",
+      "key": "ABT",
+      "name": "Abbott Laboratories",
+      "marketCap": "$208.56B",
+      "sector": "Healthcare",
+      "industry": "Medical Devices"
+    },
+    {
+      "symbol": "XOM",
+      "key": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "marketCap": "$205.67B",
+      "sector": "Energy",
+      "industry": "Oil & Gas Integrated"
+    },
+    {
+      "symbol": "CVX",
+      "key": "CVX",
+      "name": "Chevron Corporation",
+      "marketCap": "$203.45B",
+      "sector": "Energy",
+      "industry": "Oil & Gas Integrated"
+    },
+    {
+      "symbol": "NKE",
+      "key": "NKE",
+      "name": "NIKE, Inc.",
+      "marketCap": "$200.34B",
+      "sector": "Consumer Cyclical",
+      "industry": "Footwear & Accessories"
+    },
+    {
+      "symbol": "BMY",
+      "key": "BMY",
+      "name": "Bristol-Myers Squibb Company",
+      "marketCap": "$198.45B",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General"
+    },
+    {
+      "symbol": "BA",
+      "key": "BA",
+      "name": "The Boeing Company",
+      "marketCap": "$195.56B",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense"
+    },
+    {
+      "symbol": "MCD",
+      "key": "MCD",
+      "name": "McDonald's Corporation",
+      "marketCap": "$192.34B",
+      "sector": "Consumer Cyclical",
+      "industry": "Restaurants"
+    },
+    {
+      "symbol": "WBA",
+      "key": "WBA",
+      "name": "Walgreens Boots Alliance, Inc.",
+      "marketCap": "$188.45B",
+      "sector": "Healthcare",
+      "industry": "Pharmaceutical Retailers"
+    },
+    {
+      "symbol": "IBM",
+      "key": "IBM",
+      "name": "International Business Machines Corporation",
+      "marketCap": "$185.67B",
+      "sector": "Technology",
+      "industry": "Information Technology Services"
+    },
+    {
+      "symbol": "ORCL",
+      "key": "ORC",
+      "name": "Oracle Corporation",
+      "marketCap": "$182.89B",
+      "sector": "Technology",
+      "industry": "Software - Infrastructure"
+    },
+    {
+      "symbol": "COST",
+      "key": "COS",
+      "name": "Costco Wholesale Corporation",
+      "marketCap": "$180.34B",
+      "sector": "Consumer Defensive",
+      "industry": "Discount Stores"
+    },
+    {
+      "symbol": "PM",
+      "key": "PM",
+      "name": "Philip Morris International Inc.",
+      "marketCap": "$178.56B",
+      "sector": "Consumer Defensive",
+      "industry": "Tobacco"
+    },
+    {
+      "symbol": "ACN",
+      "key": "ACN",
+      "name": "Accenture plc",
+      "marketCap": "$176.45B",
+      "sector": "Technology",
+      "industry": "Information Technology Services"
+    },
+    {
+      "symbol": "LLY",
+      "key": "LLY",
+      "name": "Eli Lilly and Company",
+      "marketCap": "$174.34B",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General"
+    },
+    {
+      "symbol": "HON",
+      "key": "HON",
+      "name": "Honeywell International Inc.",
+      "marketCap": "$172.45B",
+      "sector": "Industrials",
+      "industry": "Conglomerates"
+    },
+    {
+      "symbol": "UNH",
+      "key": "UNH",
+      "name": "UnitedHealth Group Incorporated",
+      "marketCap": "$170.34B",
+      "sector": "Healthcare",
+      "industry": "Healthcare Plans"
+    },
+    {
+      "symbol": "TXN",
+      "key": "TXN",
+      "name": "Texas Instruments Incorporated",
+      "marketCap": "$168.56B",
+      "sector": "Technology",
+      "industry": "Semiconductors"
+    },
+    {
+      "symbol": "CAT",
+      "key": "CAT",
+      "name": "Caterpillar Inc.",
+      "marketCap": "$166.45B",
+      "sector": "Industrials",
+      "industry": "Farm & Heavy Construction Machinery"
+    },
+    {
+      "symbol": "SPGI",
+      "key": "SPG",
+      "name": "S&P Global Inc.",
+      "marketCap": "$164.34B",
+      "sector": "Financial Services",
+      "industry": "Financial Data & Stock Exchanges"
+    },
+    {
+      "symbol": "RTX",
+      "key": "RTX",
+      "name": "Raytheon Technologies Corporation",
+      "marketCap": "$162.45B",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense"
+    },
+    {
+      "symbol": "LOW",
+      "key": "LOW",
+      "name": "Lowe's Companies, Inc.",
+      "marketCap": "$160.34B",
+      "sector": "Consumer Cyclical",
+      "industry": "Home Improvement Retail"
+    },
+    {
+      "symbol": "MMM",
+      "key": "MMM",
+      "name": "3M Company",
+      "marketCap": "$158.56B",
+      "sector": "Industrials",
+      "industry": "Conglomerates"
+    },
+    {
+      "symbol": "LIN",
+      "key": "LIN",
+      "name": "Linde plc",
+      "marketCap": "$156.45B",
+      "sector": "Basic Materials",
+      "industry": "Specialty Chemicals"
+    },
+    {
+      "symbol": "MDT",
+      "key": "MDT",
+      "name": "Medtronic plc",
+      "marketCap": "$154.34B",
+      "sector": "Healthcare",
+      "industry": "Medical Devices"
+    },
+    {
+      "symbol": "GS",
+      "key": "GS",
+      "name": "The Goldman Sachs Group, Inc.",
+      "marketCap": "$152.56B",
+      "sector": "Financial Services",
+      "industry": "Capital Markets"
+    },
+    {
+      "symbol": "CHTR",
+      "key": "CHT",
+      "name": "Charter Communications, Inc.",
+      "marketCap": "$150.45B",
+      "sector": "Communication Services",
+      "industry": "Telecom Services"
+    }
+  ]
+}
